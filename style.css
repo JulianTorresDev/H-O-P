@@ -1,0 +1,24 @@
+body {
+  background-image: url(https://img.freepik.com/free-vector/purple-halftone-dots-background_1164-1084.jpg?w=740&t=st=1699826879~exp=1699827479~hmac=708dffd9caab5ec7da37074f405e7a7f5d2a90f258015da36db684866ddaed67);
+  background-repeat: auto;
+  background-size: auto;
+  background-attachment: fixed;
+  color: rgb(0, 0, 0);
+  font-family: "Minimal", sans-serif;
+  font-size: 24px;
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+h1 {
+  margin-top: 2rem;
+  margin-bottom: 0;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 2rem;
+}
